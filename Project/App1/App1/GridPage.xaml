@@ -11,5 +11,6 @@
             <BoxView Grid.Row="0" HorizontalOptions="FillAndExpand" BackgroundColor="Yellow"/>
             <BoxView Grid.Row="0" HorizontalOptions="FillAndExpand" BackgroundColor="Green"/>
         </Grid>
+
     </ContentPage.Content>
 </ContentPage>
